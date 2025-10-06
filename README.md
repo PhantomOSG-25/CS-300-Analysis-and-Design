@@ -1,0 +1,1 @@
+This project is part of CS-300: Analysis and Design at Southern New Hampshire University. It focuses on applying structured analysis and design techniques to develop a software solution that meets client requirements, supports maintainability, and aligns with industry best practices.
