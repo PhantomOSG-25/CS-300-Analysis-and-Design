@@ -1,0 +1,10 @@
+CS100,Programming Foundations
+CS200,Data Structures,CS100
+CS210,Programming Languages,CS100
+CS230,Operating Platforms,CS200
+CS255,System Analysis and Design,CS100
+CS300,Analysis and Design,CS200,CS210
+CS320,Software Testing and Automation,CS200
+CS340,Client Server Development,CS200,CS255
+CS360,Mobile Architecture and Programming,CS200
+CS465,Full Stack Development,CS200,CS340
